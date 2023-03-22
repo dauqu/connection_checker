@@ -1,0 +1,27 @@
+latest: Pulling from library/nginx
+66dbba0fb1b5: Already exists
+6a4b1f0b5a90: Pulling fs layer
+16ea4daad357: Pulling fs layer
+646b2422838c: Pulling fs layer
+c6036fb71e57: Pulling fs layer
+dc0e78f15ad0: Pulling fs layer
+c6036fb71e57: Waiting
+dc0e78f15ad0: Waiting
+16ea4daad357: Verifying Checksum
+16ea4daad357: Download complete
+646b2422838c: Verifying Checksum
+646b2422838c: Download complete
+6a4b1f0b5a90: Verifying Checksum
+6a4b1f0b5a90: Download complete
+dc0e78f15ad0: Verifying Checksum
+dc0e78f15ad0: Download complete
+c6036fb71e57: Verifying Checksum
+c6036fb71e57: Download complete
+6a4b1f0b5a90: Pull complete
+16ea4daad357: Pull complete
+646b2422838c: Pull complete
+c6036fb71e57: Pull complete
+dc0e78f15ad0: Pull complete
+Digest: sha256:aa0afebbb3cfa473099a62c4b32e9b3fb73ed23f2a75a65ce1d4b4f55a5c2ef2
+Status: Downloaded newer image for nginx:latest
+docker.io/library/nginx:latest
